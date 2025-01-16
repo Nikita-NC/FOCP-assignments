@@ -1,0 +1,81 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "your", "name"],
+    "bot_response": "My name is Bot.",
+    "required_words": ["name"]
+  },
+
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "Nice to meet you too!",
+    "required_words": ["nice", "meet", "you"]
+  },
+
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm fine! Thank you.",
+    "required_words": ["how", "are", "you"]
+  },
+
+  {
+    "response_type": "keyword",
+    "user_input": ["coffee"],
+    "bot_response": "The campus coffee bar is open from 8 AM to 6 PM.",
+    "required_words": ["coffee", "open"]
+  },
+  {
+    "response_type": "keyword",
+    "user_input": ["library"],
+    "bot_response": "The library offers great quiet study spaces. Would you like to know where they are?",
+    "required_words": ["library"]
+  },
+  {
+    "response_type": "keyword",
+    "user_input": ["sports"],
+    "bot_response": "The sports center has various facilities open from 6 AM to 10 PM. Interested in any specific sports?",
+    "required_words": ["sports"]
+  },
+  {
+    "response_type": "keyword",
+    "user_input": ["music"],
+    "bot_response": "The music club meets every Friday. Would you like to join them this week?",
+    "required_words": ["music"]
+  },
+  {
+    "response_type": "keyword",
+    "user_input": ["study"],
+    "bot_response": "There are plenty of quiet study spots around campus. Would you like recommendations?",
+    "required_words": ["study"]
+  },
+  {
+    "response_type": "keyword",
+    "user_input": ["computer_lab"],
+    "bot_response": "The computer lab is open from 8 AM to 8 PM. Would you like to know what software is available there?",
+    "required_words": ["computer_lab"]
+  },
+
+  {
+    "response_type": "keyword",
+    "user_input": ["cafeteria"],
+    "bot_response": "The cafeteria has a salad bar and vegetarian options.",
+    "required_words": ["cafeteria"]
+  }
+]
+  

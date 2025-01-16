@@ -1,0 +1,16 @@
+User: Nikita
+Agent: Hunter
+Nikita: hi
+Agent Hunter: Hey there!
+Nikita: how are you
+Agent Hunter: I'm fine! Thank you.
+Nikita: Is the library a good place to study?
+Agent Hunter: The library offers great quiet study spaces. Would you like to know where they are?
+Nikita: Where are good places to study on campus?
+Agent Hunter: There are plenty of quiet study spots around campus. Would you like recommendations?
+Nikita: Do you want to come with me?
+Agent Hunter: Do you mind trying to rephrase that?
+Nikita: Do you love studying?
+Agent Hunter: Please try writing something more descriptive.
+Nikita: bye
+Agent Hunter: Goodbye, Nikita! Have a great day!
