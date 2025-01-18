@@ -151,7 +151,6 @@ def save_match(team1, team2, field_entry, time_entry):
     wb.save(Matches)
 
     messagebox.showinfo("Success", "Match data saved successfully!")
-    clear_match_fields(team1, team2, field_entry, time_entry)
 
 def clear_match_fields(team1, team2, field_entry, time_entry):
     team1.delete(0, tk.END)
